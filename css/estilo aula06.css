@@ -1,25 +1,15 @@
-* {
-    color: #006699;
-    margin: 0;
+div em{
+    color: red;
 }
 
-p {
-    color: #0000cc;
-}
-
-.destaque {
-    color: #cc0000;
-}
-
-.detalhe {
+div > em{
     text-decoration: underline;
 }
 
-#introdução{
-    background-color: #ffcc33;
+P + P {
+    color: blue;
 }
 
-em[title=empresa]{
-    color: #336600;
-    font-size: 30px;
+p + h2{
+    text-decoration: underline;
 }
