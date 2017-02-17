@@ -1,0 +1,25 @@
+* {
+    color: #006699;
+    margin: 0;
+}
+
+p {
+    color: #0000cc;
+}
+
+.destaque {
+    color: #cc0000;
+}
+
+.detalhe {
+    text-decoration: underline;
+}
+
+#introdução{
+    background-color: #ffcc33;
+}
+
+em[title=empresa]{
+    color: #336600;
+    font-size: 30px;
+}
